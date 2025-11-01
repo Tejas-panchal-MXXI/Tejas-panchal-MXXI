@@ -15,7 +15,7 @@
 
 ![Tejas Panchal's Github stats](https://github-readme-stats.vercel.app/api?username=Tejas-panchal-MXXI) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tejas-panchal-MXXI)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tejas-panchal-MXXI)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-panchal-MXXI&hide_progress=true)
 
