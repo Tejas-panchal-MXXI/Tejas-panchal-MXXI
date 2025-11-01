@@ -1,5 +1,4 @@
 # Hi 👋, I'm Tejas Panchal
-<img align='right' alt="Coder GIF" height=250 width=250 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
  *A Computer Science student, building solutions to real world problems*
 
