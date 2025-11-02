@@ -19,7 +19,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Tejas-panchal-MXXI)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-panchal-MXXI&layout=donut-vertical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-panchal-MXXI&layout=donut&langs_count=10)
 
 ![Tejas Panchal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejas-panchal-MXXI&theme=tokyo-night)
 
