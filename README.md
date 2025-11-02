@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Tejas-panchal-MXXI)
+
 # Hi 👋, I'm Tejas Panchal
 
  *A Computer Science student, building solutions to real world problems*
